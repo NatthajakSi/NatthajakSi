@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NatthajakSi
-- 👀 I’m interested in Software Engineering
+- 👀 Software Developer
 
 <!---
 NatthajakSi/NatthajakSi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
